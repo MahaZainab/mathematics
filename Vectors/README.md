@@ -40,6 +40,4 @@ The ability to switch between these perspectives enhances problem-solving in lin
 - The interplay between geometric intuition and algebraic computation is crucial.
 - Linear algebra's applications span across multiple fields including data science, physics, and computer graphics.
 
-## Additional Resources
-For a practical application and deeper understanding, refer to the [Day-01 Vector Tutorial Notebook](Day-01%20Vector%20Tutorial.ipynb).
 
