@@ -1,4 +1,4 @@
-# Day 1: Vectors
+# Vectors
 
 ## Introduction to Vectors
 Vectors are essential to understanding linear algebra and have multiple interpretations across various disciplines:
