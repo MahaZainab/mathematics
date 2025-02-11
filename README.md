@@ -1,1 +1,1 @@
-# mathematics-for-artificial-intelligence
+# Mathematics-for-artificial-intelligence
