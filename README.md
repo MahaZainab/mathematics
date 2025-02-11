@@ -1,3 +1,3 @@
 # Mathematics for Artificial Intelligence
 
-This 
+This is a 
