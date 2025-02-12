@@ -2,7 +2,7 @@
 
 This is a guide  for experts and bignners as well. 
 
-You  can 
+You  can find 
 
 ## Topic:  1. Vectors
 | Sr.    | Documentation   |   Code
