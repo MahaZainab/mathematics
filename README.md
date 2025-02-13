@@ -12,4 +12,4 @@ You  can find useful resources in this [folder](https://github.com/MahaZainab/ma
 ## Topic:  2. Matrix
 | Sr.    | Documentation   |   Code
 |------------|------------|------------|
-| 1| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Matrix)| [Code](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Vectors/Vector_Tutorial.ipynb)|
+| 1| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Matrix)| [Code](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Matrix/matrix.ipynb)|
