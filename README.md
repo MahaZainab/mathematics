@@ -7,7 +7,7 @@ You  can find useful resources in this [folder](https://github.com/MahaZainab/ma
 ## Topic:  1. Vectors
 | Sr.    | Documentation   |   Code
 |------------|------------|------------|
-| 1| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Vectors)| [Code](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Vectors/Vector_Tutorial.ipynb)|
+| 1| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Vectors)| [Python](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Vectors/Vector_Tutorial.ipynb)|
 
 ## Topic:  2. Matrix
 | Sr.    | Documentation   |   Code
