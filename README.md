@@ -13,3 +13,5 @@ You  can find useful resources in this [folder](https://github.com/MahaZainab/ma
 | Sr.    | Documentation   |   Code
 |------------|------------|------------|
 | 1| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Matrix)| [Python](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Matrix/matrix.ipynb)|
+| 1| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Matrix)| [Python](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Matrix/matrix.ipynb)|
+| 1| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Matrix)| [Python](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Matrix/matrix.ipynb)|
