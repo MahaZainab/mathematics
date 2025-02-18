@@ -12,6 +12,7 @@ You  can find useful resources in this [folder](https://github.com/MahaZainab/ma
 ## Topic:  2. Matrix
 | Sr.    | Documentation   |   Code
 |------------|------------|------------|
+| 3| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Matrix)| [Python](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Matrix/Matrix_operation.ipynb)|
 | 1| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Matrix)| [Python](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Matrix/matrix.ipynb)|
 | 2| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Matrix)| [Python](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Matrix/Eigen_Values%2C_Eigen_vectors.ipynb)|
-| 3| [Guide](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/tree/main/Matrix)| [Python](https://github.com/MahaZainab/mathematics-for-artificial-intelligence/blob/main/Matrix/Matrix_operation.ipynb)|
+
