@@ -1,4 +1,4 @@
-# Mathematics for Artificial Intelligence
+# Mathematics
 
 This is a guide  for experts and bignners as well. 
 
